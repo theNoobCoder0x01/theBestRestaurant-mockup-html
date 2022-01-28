@@ -94,6 +94,10 @@ a {
     margin: 0 auto;
 }
 
+.hero-container {
+    min-height: 700px;
+}
+
 .hero-content {
     width: 90%;
 }
